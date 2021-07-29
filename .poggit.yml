@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Arthur-iv-studios/3D-Bow-Gun
+build-by-default: true
+branches:
+- main
+projects:
+  3D-Bow-Gun:
+    path: ""
+...
