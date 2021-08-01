@@ -1,0 +1,8 @@
+---
+name: 3D Bow
+version: 0.0.1
+main: arthur\CustomBow\Main
+api: 3.22.1
+author: arthur
+description: Loads A Custom Resource pack
+...
