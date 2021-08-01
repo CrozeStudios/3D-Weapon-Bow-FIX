@@ -1,10 +1,9 @@
 ---
-name: 3D Bow
+name: 3D_Bow
 version: 0.0.2
 main: arthur\CustomBow\Main
 api: 3.22.1
 author: arthur
 description: Loads A Custom Resource pack
-depend:
-  - CustomSound
+depend: CustomSound
 ...
