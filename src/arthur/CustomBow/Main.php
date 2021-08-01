@@ -62,6 +62,8 @@ class Main extends PluginBase
         $pack->addFile("lang/en_US.lang", "texts/en_US.lang");
         $pack->addFile("anim/bow_gun.animation.json", "animations/bow_gun.animation.json");
         $pack->addFile("anim_con/player.animation_controllers.json", "animation_controllers/player.animation_controllers.json");
+        $pack->addFile("sound/random/deagle.ogg", "sounds/random/deagle.ogg");
+        $pack->addFile("sound/sound_definitions.json", "sounds/sound_definitions.json");
         $pack->setPackIcon("packicon.png");
         $pack->generate($resourcePackPath);
         //Register the ResourcePack.
