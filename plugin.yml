@@ -5,4 +5,6 @@ main: arthur\CustomBow\Main
 api: 3.22.1
 author: arthur
 description: Loads A Custom Resource pack
+depend:
+  - CustomSound
 ...
