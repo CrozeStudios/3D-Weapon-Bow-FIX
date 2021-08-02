@@ -20,9 +20,11 @@ Learn From Code, Ect,
 
 # PLUGINS NEEDED FOR SOUNDS
 
-Custom Sound https://github.com/Mcbeany/CustomSound
+Custom Sound 
+https://github.com/Mcbeany/CustomSound
 
-Custom Sound PHAR Download https://www.mediafire.com/file/74xmocl62p556xk/CustomSounds.phar/file
+Custom Sound PHAR Download 
+https://www.mediafire.com/file/74xmocl62p556xk/CustomSounds.phar/file
 
 # Features:
 
