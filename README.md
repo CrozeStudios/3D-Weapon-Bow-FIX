@@ -1,3 +1,7 @@
+# Permissions:
+
+Feel Free To Fork, Copy Code, Edit Code In Your Fork, Learn From Code, Ect,
+
 # PLUGINS NEEDED FOR SOUNDS
 
 Custom Sound https://github.com/Mcbeany/CustomSound
