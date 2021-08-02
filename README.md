@@ -1,3 +1,15 @@
+# Plugins On Servers:
+
+1.
+IP:
+* pe-arthur-smp.cf
+
+Name:
+* Arthur SMP
+
+Port:
+* 19132
+
 # Permissions:
 
 Feel Free To Fork, Copy Code, Edit Code In Your Fork, Learn From Code, Ect,
