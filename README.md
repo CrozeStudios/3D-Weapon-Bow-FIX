@@ -47,4 +47,6 @@ Ace Entities Addon MCPE
 # Plugin By
 * Croze Studios/Arthur IV studios
 
-* NhanAZ
+* NhanAZ:
+
+https://github.com/NhanAZ
