@@ -1,6 +1,6 @@
 # Plugins On Servers:
 
-1.
+1. *Arthur SMP
 IP:
 * pe-arthur-smp.cf
 
