@@ -1,3 +1,9 @@
+# PLUGINS NEEDED FOR SOUNDS
+
+Custom Sound https://github.com/Mcbeany/CustomSound
+
+Custom Sound PHAR Download https://www.mediafire.com/file/74xmocl62p556xk/CustomSounds.phar/file
+
 # Features:
 
 Replaces Bow With A Fully modeled, And Animated Deagle
