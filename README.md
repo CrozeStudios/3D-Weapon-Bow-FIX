@@ -13,7 +13,10 @@ Port:
 
 # Permissions:
 
-Feel Free To Fork, Copy Code, Edit Code In Your Fork, Learn From Code, Ect,
+Feel Free To Fork,
+Copy Code, 
+Edit Code In Your Fork,
+Learn From Code, Ect,
 
 # PLUGINS NEEDED FOR SOUNDS
 
