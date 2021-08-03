@@ -1,4 +1,4 @@
-# Plugins On Servers:
+# Plugin Used On Servers:
 
 1. Arthur SMP
 
