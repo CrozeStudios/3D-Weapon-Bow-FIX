@@ -31,6 +31,6 @@ Animated, Modeled, Textured!
 #### Animated
 - Croze Studios/Arthur IV Studios
 
-#### Plugin By
+#### Plugin
 - Croze Studios/Arthur IV studios
 - [NhanAZ](https://github.com/NhanAZ)
