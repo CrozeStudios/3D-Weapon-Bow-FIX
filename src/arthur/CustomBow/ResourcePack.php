@@ -1,14 +1,6 @@
 <?php
 
 /**
- * 
- *
- * 
- * 
- *
- * 
- * 
- *
  *██████╗░░█████╗░░█████╗░██╗░░██╗
  *██╔══██╗██╔══██╗██╔══██╗██║░██╔╝
  *██████╔╝███████║██║░░╚═╝█████═╝░
@@ -16,8 +8,6 @@
  *██║░░░░░██║░░██║╚█████╔╝██║░╚██╗
  *╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
  *
- * 
- * 
  * Pack is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -36,12 +26,13 @@ declare(strict_types=1);
 
 namespace arthur\CustomBow;
 
-use LogicException;
-use pocketmine\resourcepacks\ZippedResourcePack;
 use pocketmine\Server;
-use pocketmine\resourcepacks\ResourcePack as PMResourcePack;
+
+use LogicException;
 use ReflectionClass;
 use ReflectionException;
+use pocketmine\resourcepacks\ZippedResourcePack;
+use pocketmine\resourcepacks\ResourcePack as PMResourcePack;
 
 abstract class ResourcePack
 {
