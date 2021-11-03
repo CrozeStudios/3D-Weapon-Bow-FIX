@@ -25,12 +25,12 @@ This Plugin Adds A Deagle Replacing A Bow.
 Animated, Modeled, Textured!
 
 # License
-## Model Credits
+#### Model Credits
 - [Ace Entities Addon MCPE](https://mcpedl.com/aceentities-addon/)
 
-## Animated
+#### Animated
 - Croze Studios/Arthur IV Studios
 
-## Plugin By
+#### Plugin By
 - Croze Studios/Arthur IV studios
 - [NhanAZ](https://github.com/NhanAZ)
