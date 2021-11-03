@@ -2,8 +2,8 @@
 name: CustomBow
 version: 0.0.2
 main: arthur\CustomBow\Main
-api: 3.22.1
-author: arthur
+api: 3.25.2
+author: Arthur-iv-studios
 description: Loads A Custom Resource pack
 depend: CustomSound
 ...
