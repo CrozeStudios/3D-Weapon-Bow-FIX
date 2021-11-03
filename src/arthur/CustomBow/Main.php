@@ -1,14 +1,6 @@
 <?php
 
 /**
- * 
- *
- * 
- * 
- *
- * 
- * 
- *
  *██████╗░░█████╗░░█████╗░██╗░░██╗
  *██╔══██╗██╔══██╗██╔══██╗██║░██╔╝
  *██████╔╝███████║██║░░╚═╝█████═╝░
@@ -16,8 +8,6 @@
  *██║░░░░░██║░░██║╚█████╔╝██║░╚██╗
  *╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
  *
- * 
- * 
  * Pack is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -36,22 +26,19 @@ declare(strict_types=1);
 
 namespace arthur\CustomBow;
 
-use arthur\CustomBow\generator\SimpleResourcePack;
-use arthur\CustomBow\manifest\Version;
-use arthur\CustomBow\ResourcePack;
-use pocketmine\command\Command;
-use pocketmine\command\CommandSender;
-use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
-use pocketmine\utils\TextFormat;
+
+use arthur\CustomBow\ResourcePack;
+use arthur\CustomBow\manifest\Version;
+use arthur\CustomBow\generator\SimpleResourcePack;
 
 class Main extends PluginBase
 {
-    public function onEnable(): void
+    public function onEnable() : void
     {
-        //Keep "resourcepack.zip"; the same way or it wont work :)
+        // Keep "resourcepack.zip"; the same way or it wont work :)
         $resourcePackPath = $this->getDataFolder() . "resourcepack.zip";
-        //Generate the ResourcePack.
+        // Generate the ResourcePack.
         $pack = new SimpleResourcePack($this, new Version(1, 0, 0));
         $pack->addFile("geometrys/gun.json", "models/entity/bow/gun.json");
         $pack->addFile("item_models/bow.json", "attachables/bow.json");
@@ -66,7 +53,7 @@ class Main extends PluginBase
         $pack->addFile("sound/sound_definitions.json", "sounds/sound_definitions.json");
         $pack->setPackIcon("packicon.png");
         $pack->generate($resourcePackPath);
-        //Register the ResourcePack.
+        // Register the ResourcePack.
         ResourcePack::register($resourcePackPath);
     }
 
