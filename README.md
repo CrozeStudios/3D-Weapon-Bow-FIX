@@ -24,12 +24,12 @@ This Is For Fun, Gun Games, Ect
 This Plugin Adds A Deagle Replacing A Bow.
 Animated, Modeled, Textured!
 
-# Model Credits
+# License
+## Model Credits
 [Ace Entities Addon MCPE](https://mcpedl.com/aceentities-addon/)
- 
-# Animated By
-  Croze Studios/Arthur IV Studios
-  
-# Plugin By
+
+## Animated By Croze Studios/Arthur IV Studios
+
+## Plugin By
 - Croze Studios/Arthur IV studios
 - NhanAZ(https://github.com/NhanAZ)
