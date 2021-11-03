@@ -3,13 +3,6 @@ Name: Arthur SMP <br/>
 IP: pe-arthur-smp.cf <br/>
 Port: 19132 
 
-# Permissions
-- Feel Free To Fork
-- Copy Code
-- Edit Code In Your Fork
-- Learn From Code
-- Ect
-
 # PLUGINS NEEDED FOR SOUNDS
 - [CustomSound.zip](https://github.com/Arthur-iv-studios/CustomSound)
 - [CustomSound.phar](https://www.mediafire.com/file/74xmocl62p556xk/CustomSounds.phar/file)
@@ -30,3 +23,10 @@ Port: 19132
 #### Plugin
 - Croze Studios/Arthur IV studios
 - [NhanAZ](https://github.com/NhanAZ)
+
+#### Permissions
+- Feel Free To Fork
+- Copy Code
+- Edit Code In Your Fork
+- Learn From Code
+- Ect
