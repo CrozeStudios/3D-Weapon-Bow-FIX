@@ -1,7 +1,7 @@
 # Plugin Used On Servers
-Name: Arthur SMP
-IP: pe-arthur-smp.cf
-Port: 19132
+Name: Arthur SMP <br/>
+IP: pe-arthur-smp.cf <br/>
+Port: 19132 
 
 # Permissions
 - Feel Free To Fork
