@@ -26,10 +26,11 @@ Animated, Modeled, Textured!
 
 # License
 ## Model Credits
-[Ace Entities Addon MCPE](https://mcpedl.com/aceentities-addon/)
+- [Ace Entities Addon MCPE](https://mcpedl.com/aceentities-addon/)
 
-## Animated By Croze Studios/Arthur IV Studios
+## Animated
+- Croze Studios/Arthur IV Studios
 
 ## Plugin By
 - Croze Studios/Arthur IV studios
-- NhanAZ(https://github.com/NhanAZ)
+- [NhanAZ](https://github.com/NhanAZ)
